@@ -2,7 +2,6 @@
 
 A Ruby LSP addon that provides **"Go to Definition"** support for [FactoryBot](https://github.com/thoughtbot/factory_bot) factories.
 
-> **Note**: This is a separate addon from [`ruby-lsp-factory_bot`](https://rubygems.org/gems/ruby-lsp-factory_bot). That gem provides code completion, while this gem provides navigation (go-to-definition). They complement each other and can be used together!
 
 ## Features
 
