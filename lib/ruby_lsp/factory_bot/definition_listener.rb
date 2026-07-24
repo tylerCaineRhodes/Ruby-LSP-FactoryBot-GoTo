@@ -8,7 +8,7 @@ module RubyLsp
     class DefinitionListener
       include ::RubyLsp::Requests::Support::Common
 
-      FACTORY_METHODS = %i[create build build_list create_list attributes_for].freeze
+      FACTORY_METHODS = %i[create build build_list create_list attributes_for association].freeze
 
       def initialize(response_builder, node_context, factory_index, dispatcher)
         @response_builder = response_builder
