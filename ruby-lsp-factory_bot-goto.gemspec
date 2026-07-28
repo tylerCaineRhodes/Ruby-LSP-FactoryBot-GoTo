@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "ruby-lsp-factory_bot-goto"
-  spec.version = "0.1.0"
+  spec.version = "0.2.0"
   spec.authors = ["Tyler Rhodes"]
   spec.email = ["tyler.rhodes@aya.yale.edu"]
 
